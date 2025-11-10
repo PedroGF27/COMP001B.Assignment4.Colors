@@ -13,4 +13,12 @@ body {
     color: white;
     border-radius: 10px;
  }
+ h1 {
+    display: inline;
+ }
+
+h3 {
+    display: inline;
+    line-height: 50px;
+}
 
